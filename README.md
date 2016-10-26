@@ -1,2 +1,0 @@
-# canbox
-canbox test
